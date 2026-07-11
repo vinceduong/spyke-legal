@@ -26,14 +26,14 @@ When your online backup runs:
 
 - The content of your Spyke database: training history, programs, notes, cardio data, and profile (sex and body weight, used to personalize the app).
 - Your app preferences (language, units, voice coach settings, video and storage preferences).
-- Technical metadata: a random identifier tied to the installation (used to coordinate backups across your devices), the app version and the backup size.
+- Technical metadata: a random identifier tied to the installation (used to coordinate backups across your devices), your device's name as provided by the system (shown if your account is used on another device), the app version and the backup size.
 
 Body weight and training history are wellness data. By creating your account, you consent to their inclusion in your online backup. You can withdraw this consent at any time by deleting your account.
 
 ## What stays on your device
 
 - Your training photos and videos are never uploaded to our servers: only your database (which references their file names) is backed up.
-- Text recognition (program import) runs locally on the device.
+- Text recognition and imported program analysis run locally on the device (the analysis model is downloaded once, then works offline).
 - Spyke embeds no advertising SDK, no audience measurement tool, and sets no cookies.
 
 ## Why we process this data
@@ -43,7 +43,7 @@ Body weight and training history are wellness data. By creating your account, yo
 
 ## Hosting and processor
 
-Account data and backups are hosted by Supabase, in the European Union (AWS Paris region, eu-west-3). Data is encrypted in transit (TLS) and at rest. Supabase acts as a processor and does not use your data for its own purposes.
+Account data and backups are hosted by Supabase, in the European Union (AWS Paris region, eu-west-3). Data is encrypted in transit (TLS) and at rest. Supabase acts as a processor and does not use your data for its own purposes. As with any online service, technical logs (including IP addresses) are processed temporarily by the host for the security and proper operation of the service.
 
 ## Data retention
 

@@ -26,14 +26,14 @@ Quand ta sauvegarde en ligne est réalisée :
 
 - Le contenu de ta base de données Spyke : historique d'entraînement, programmes, notes, données cardio, et profil (sexe et poids de corps, utilisés pour personnaliser l'application).
 - Tes préférences d'application (langue, unités, réglages du coach vocal, préférences vidéo et stockage).
-- Des métadonnées techniques : un identifiant aléatoire propre à l'installation (pour coordonner les sauvegardes entre tes appareils), la version de l'application et la taille de la sauvegarde.
+- Des métadonnées techniques : un identifiant aléatoire propre à l'installation (pour coordonner les sauvegardes entre tes appareils), le nom de ton appareil tel que fourni par le système (affiché si ton compte est utilisé sur un autre appareil), la version de l'application et la taille de la sauvegarde.
 
 Le poids de corps et l'historique d'entraînement sont des données de bien-être. En créant ton compte, tu consens à ce qu'elles soient incluses dans ta sauvegarde en ligne. Tu peux retirer ce consentement à tout moment en supprimant ton compte.
 
 ## Ce qui reste sur ton appareil
 
 - Tes photos et vidéos d'entraînement ne sont jamais envoyées sur nos serveurs : seule ta base de données (qui référence leurs noms de fichiers) est sauvegardée.
-- La reconnaissance de texte (import de programmes) est réalisée localement sur l'appareil.
+- La reconnaissance de texte et l'analyse des programmes importés sont réalisées localement sur l'appareil (le modèle d'analyse est téléchargé une fois, puis fonctionne sans connexion).
 - Spyke n'intègre aucun SDK publicitaire, aucun outil de mesure d'audience et ne dépose aucun cookie.
 
 ## Pourquoi ces données sont traitées
@@ -43,7 +43,7 @@ Le poids de corps et l'historique d'entraînement sont des données de bien-êtr
 
 ## Hébergement et sous-traitant
 
-Les données de compte et les sauvegardes sont hébergées par Supabase, dans l'Union européenne (région AWS Paris, eu-west-3). Les échanges sont chiffrés en transit (TLS) et les données sont chiffrées au repos. Supabase agit comme sous-traitant et n'utilise pas tes données pour son propre compte.
+Les données de compte et les sauvegardes sont hébergées par Supabase, dans l'Union européenne (région AWS Paris, eu-west-3). Les échanges sont chiffrés en transit (TLS) et les données sont chiffrées au repos. Supabase agit comme sous-traitant et n'utilise pas tes données pour son propre compte. Comme pour tout service en ligne, des journaux techniques (incluant l'adresse IP) sont traités temporairement par l'hébergeur pour la sécurité et le bon fonctionnement du service.
 
 ## Durée de conservation
 

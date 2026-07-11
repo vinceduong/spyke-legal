@@ -15,6 +15,7 @@ Spyke lets you track your workouts (strength training, weightlifting, cardio), f
 ## Your account
 
 - Accounts are created via Sign in with Apple.
+- Creating an account requires being at least 15 (or having parental consent — see the Privacy Policy).
 - You are responsible for keeping access to your device and your Apple account secure.
 - The account is personal: it is meant for your own training tracking.
 
@@ -54,7 +55,7 @@ These terms may evolve along with the app. The last update date appears at the t
 
 ## Governing law
 
-These terms are governed by French law. In case of dispute, an amicable solution will be sought first; failing that, French courts will have jurisdiction.
+These terms are governed by French law. In case of dispute, an amicable solution will be sought first; failing that, French courts will have jurisdiction, subject to mandatory consumer jurisdiction rules.
 
 ## Contact
 

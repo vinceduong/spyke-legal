@@ -15,6 +15,7 @@ Spyke te permet de suivre tes entraînements (musculation, haltérophilie, cardi
 ## Ton compte
 
 - La création d'un compte se fait via Sign in with Apple.
+- La création d'un compte est réservée aux personnes d'au moins 15 ans (ou avec l'accord parental — voir la Politique de confidentialité).
 - Tu es responsable de la confidentialité de l'accès à ton appareil et à ton compte Apple.
 - Le compte est personnel : il est destiné à ton propre suivi d'entraînement.
 
@@ -54,7 +55,7 @@ Ces conditions peuvent évoluer avec l'application. La date de dernière mise à
 
 ## Droit applicable
 
-Les présentes conditions sont régies par le droit français. En cas de litige, une solution amiable sera recherchée en priorité ; à défaut, les tribunaux français seront compétents.
+Les présentes conditions sont régies par le droit français. En cas de litige, une solution amiable sera recherchée en priorité ; à défaut, les tribunaux français seront compétents, sous réserve des règles impératives de compétence protégeant les consommateurs.
 
 ## Contact
 
