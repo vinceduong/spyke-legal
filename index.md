@@ -1,17 +1,19 @@
 ---
-title: Spyke — Documents légaux
+title: Spyke — Assistance & documents légaux
 ---
 
-# Spyke — Documents légaux · Legal documents
+# Spyke — Assistance & documents légaux · Support & legal documents
 
 Application de suivi d'entraînement · Workout tracking app
 
 ## Français
 
+- [Assistance](./support)
 - [Politique de confidentialité](./privacy)
 - [Conditions d'utilisation](./terms)
 
 ## English
 
+- [Support](./support-en)
 - [Privacy Policy](./privacy-en)
 - [Terms of Use](./terms-en)
