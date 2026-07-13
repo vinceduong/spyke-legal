@@ -4,7 +4,7 @@ title: Politique de confidentialité
 
 # Politique de confidentialité
 
-Dernière mise à jour : 11 juillet 2026
+Dernière mise à jour : 13 juillet 2026
 
 Spyke est une application de suivi d'entraînement éditée par Vincent Duong (éditeur indépendant). Cette politique décrit quelles données sont collectées quand tu utilises Spyke, pourquoi, et quels sont tes droits. Pour toute question : vincent.duong.dev@gmail.com.
 
@@ -33,7 +33,6 @@ Le poids de corps et l'historique d'entraînement sont des données de bien-êtr
 ## Ce qui reste sur ton appareil
 
 - Tes photos et vidéos d'entraînement ne sont jamais envoyées sur nos serveurs : seule ta base de données (qui référence leurs noms de fichiers) est sauvegardée.
-- La reconnaissance de texte et l'analyse des programmes importés sont réalisées localement sur l'appareil (le modèle d'analyse est téléchargé une fois, puis fonctionne sans connexion).
 - Spyke n'intègre aucun SDK publicitaire, aucun outil de mesure d'audience et ne dépose aucun cookie.
 
 ## Pourquoi ces données sont traitées
@@ -59,7 +58,7 @@ Conformément au RGPD, tu disposes de droits d'accès, de rectification, d'effac
 
 ## Mineurs
 
-Spyke n'est pas destinée aux enfants de moins de 15 ans. Si tu as moins de 15 ans, n'utilise pas la fonctionnalité de compte sans l'accord de tes parents.
+L'application est utilisable à tout âge. En revanche, la création d'un compte — qui sauvegarde tes données en ligne — suppose d'avoir au moins 15 ans (âge légal du consentement au traitement des données en France), ou l'accord de tes parents.
 
 ## Modifications
 

@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Last updated: July 11, 2026
+Last updated: July 13, 2026
 
 Spyke is a workout tracking app published by Vincent Duong (independent developer). This policy describes what data is collected when you use Spyke, why, and what your rights are. Questions: vincent.duong.dev@gmail.com.
 
@@ -33,7 +33,6 @@ Body weight and training history are wellness data. By creating your account, yo
 ## What stays on your device
 
 - Your training photos and videos are never uploaded to our servers: only your database (which references their file names) is backed up.
-- Text recognition and imported program analysis run locally on the device (the analysis model is downloaded once, then works offline).
 - Spyke embeds no advertising SDK, no audience measurement tool, and sets no cookies.
 
 ## Why we process this data
@@ -59,7 +58,7 @@ Under the GDPR, you have the right to access, rectify, erase, port, restrict and
 
 ## Children
 
-Spyke is not intended for children under 15. If you are under 15, do not use the account feature without parental consent.
+The app can be used at any age. However, creating an account — which backs up your data online — requires being at least 15 (the legal age of consent for data processing in France), or your parents' consent.
 
 ## Changes
 
