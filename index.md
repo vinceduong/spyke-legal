@@ -11,9 +11,11 @@ Application de suivi d'entraînement · Workout tracking app
 - [Assistance](./support)
 - [Politique de confidentialité](./privacy)
 - [Conditions d'utilisation](./terms)
+- [Supprimer ton compte](./delete-account)
 
 ## English
 
 - [Support](./support-en)
 - [Privacy Policy](./privacy-en)
 - [Terms of Use](./terms-en)
+- [Delete your account](./delete-account-en)

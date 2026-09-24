@@ -4,19 +4,19 @@ title: Terms of Use
 
 # Terms of Use
 
-Last updated: July 11, 2026
+Last updated: September 24, 2026
 
-Spyke is a workout tracking app published by Vincent Duong (independent developer), reachable at vincent.duong.dev@gmail.com. By creating an account or using Spyke, you agree to these terms.
+Spyke is a workout tracking app published by Vincent Duong (independent developer), reachable at spyke.training@gmail.com. By creating an account or using Spyke, you agree to these terms.
 
 ## The service
 
-Spyke lets you track your workouts (strength training, weightlifting, cardio), film your sets, manage your programs and back up your progress online to restore it on another device. The app is currently free. Optional paid features may be introduced in the future; their conditions (price, duration, cancellation) will be clearly presented before any purchase.
+Spyke lets you track your workouts (strength training, weightlifting, cardio), film your sets, manage your programs and back up your progress online to restore it on another device.
 
 ## Your account
 
-- Accounts are created via Sign in with Apple.
-- Creating an account requires being at least 15 (or having parental consent — see the Privacy Policy).
-- You are responsible for keeping access to your device and your Apple account secure.
+- Accounts are created via Sign in with Apple (on iPhone) or via Google (on iPhone and Android).
+- Creating an account requires meeting the age and, where necessary, parental authorization requirements applicable in your country (see the Privacy Policy).
+- You are responsible for keeping access to your device and your Apple or Google account secure.
 - The account is personal: it is meant for your own training tracking.
 
 ## Your data and content
@@ -29,8 +29,8 @@ Spyke lets you track your workouts (strength training, weightlifting, cardio), f
 
 - The online backup is provided "as is", as a complementary safety net: your data remains stored locally on your device first.
 - The publisher takes reasonable measures to preserve your backups but does not guarantee uninterrupted availability of the service or the absence of loss. In case of incident, the publisher's liability is limited as described in the "Liability" section.
-- Photos and videos are not included in the online backup: back up your device (for example via iCloud) if you want to keep them.
-- Deleting your account permanently deletes your online backups.
+- Photos are not included in the online backup. Videos are included only through the cloud video backup, when it is active: the videos of your records, and the other videos or clips you upload with the cloud button (see the Privacy Policy). To keep the rest, remember to back up your phone.
+- Deleting your account permanently deletes your online backups, including the copies of your videos.
 
 ## Acceptable use
 
@@ -46,7 +46,7 @@ To the extent permitted by law, the publisher cannot be held liable for indirect
 
 ## Termination
 
-- You can stop using Spyke and delete your account at any time, directly in the app (Settings → Account → Delete account).
+- You can stop using Spyke and delete your account at any time, directly in the app (Settings → Account & backup → Delete account).
 - The publisher may suspend or terminate an account in case of clear violation of these terms, with reasonable notice except in urgent cases.
 
 ## Changes
@@ -59,4 +59,4 @@ These terms are governed by French law. In case of dispute, an amicable solution
 
 ## Contact
 
-Vincent Duong — vincent.duong.dev@gmail.com
+Vincent Duong, spyke.training@gmail.com

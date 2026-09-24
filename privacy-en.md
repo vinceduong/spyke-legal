@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Last updated: September 19, 2026
+Last updated: September 24, 2026
 
 Spyke is a workout tracking app published by Vincent Duong (independent developer). This policy describes what data is collected when you use Spyke, why, and what your rights are. Questions: spyke.training@gmail.com.
 
@@ -35,8 +35,8 @@ Body weight and training history are wellness data. By creating your account, yo
 When cloud video backup is active (enabled by default, can be turned off in Settings → Videos):
 
 - The video files of your records (your best performances) and their thumbnails, uploaded automatically.
-- The videos you choose to upload with the cloud button, and their thumbnails.
-- The file name and size of each uploaded video.
+- The videos and clips you choose to upload with the cloud button, and their thumbnails.
+- The file name and size of each uploaded file.
 
 When the app runs into an error (crash, display error or failed operation):
 
@@ -46,8 +46,9 @@ When the app runs into an error (crash, display error or failed operation):
 
 ## What stays on your device
 
-- Your session photos and your edited clips are never uploaded to our servers: only your database (which references their file names) is backed up.
-- Your training videos are only uploaded as part of the cloud video backup described above. You can remove a copy video by video, or turn the backup off in Settings → Videos: nothing more is uploaded, and the copies already online stay until you remove them or delete your account.
+- Your session photos are never uploaded to our servers: only your database (which references their file names) is backed up.
+- Your edited clips go to the cloud only if you tap the cloud button. They are never uploaded automatically.
+- Your training videos are only uploaded as part of the cloud video backup described above. You can remove a copy file by file, or turn the backup off in Settings → Videos: nothing more is uploaded, and the copies already online stay until you remove them or delete your account.
 - Spyke embeds no advertising SDK and sets no cookies.
 
 ## Optional usage analytics
@@ -80,7 +81,7 @@ Subscription management relies on RevenueCat, which also acts as a processor. It
 
 ## Data retention
 
-Your account data, backups, the online copies of your videos and error reports are kept as long as your account is active. A video copy you remove is deleted immediately. When you delete your account (Settings → Account → Delete account), your account, all your online backups, the copies of your videos and your error reports are permanently deleted. Locally stored data remains on your device, under your control.
+Your account data, backups, the online copies of your videos and error reports are kept as long as your account is active. A video copy you remove is deleted immediately. When you delete your account (Settings → Account & backup → Delete account), your account, all your online backups, the copies of your videos and your error reports are permanently deleted. Locally stored data remains on your device, under your control.
 
 Events already received by PostHog are retained until erasure is requested or your account is deleted, subject to the retention rules applied by PostHog. Its free plan provides a one-year query window; that window and its application to the project do not guarantee automatic physical deletion after 12 months. We therefore do not promise this as a maximum storage duration. Withdrawing consent stops new measurements; to erase events already received, contact us or delete your account.
 

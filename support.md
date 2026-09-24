@@ -8,7 +8,7 @@ Une question, un problème ou une suggestion à propos de Spyke ? Écris-nous, o
 
 ## Contact
 
-E-mail : [vincent.duong.dev@gmail.com](mailto:vincent.duong.dev@gmail.com)
+E-mail : [spyke.training@gmail.com](mailto:spyke.training@gmail.com)
 
 ## Pour un traitement plus rapide
 

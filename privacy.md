@@ -4,7 +4,7 @@ title: Politique de confidentialité
 
 # Politique de confidentialité
 
-Dernière mise à jour : 19 septembre 2026
+Dernière mise à jour : 24 septembre 2026
 
 Spyke est une application de suivi d'entraînement éditée par Vincent Duong (éditeur indépendant). Cette politique décrit quelles données sont collectées quand tu utilises Spyke, pourquoi, et quels sont tes droits. Pour toute question : spyke.training@gmail.com.
 
@@ -35,8 +35,8 @@ Le poids de corps et l'historique d'entraînement sont des données de bien-êtr
 Quand la sauvegarde cloud des vidéos est active (activée par défaut, désactivable dans Réglages → Vidéos) :
 
 - Les fichiers vidéo de tes records (tes meilleures performances) et leurs vignettes, envoyés automatiquement.
-- Les vidéos que tu choisis d'envoyer avec le bouton cloud, et leurs vignettes.
-- Le nom de fichier et la taille de chaque vidéo envoyée.
+- Les vidéos et les clips que tu choisis d'envoyer avec le bouton cloud, et leurs vignettes.
+- Le nom de fichier et la taille de chaque fichier envoyé.
 
 Quand l'application rencontre une erreur (plantage, erreur d'affichage ou échec d'une opération) :
 
@@ -46,8 +46,9 @@ Quand l'application rencontre une erreur (plantage, erreur d'affichage ou échec
 
 ## Ce qui reste sur ton appareil
 
-- Tes photos de séance et tes clips montés ne sont jamais envoyés sur nos serveurs : seule ta base de données (qui référence leurs noms de fichiers) est sauvegardée.
-- Tes vidéos d'entraînement ne sont envoyées que dans le cadre de la sauvegarde cloud des vidéos décrite plus haut. Tu peux retirer une copie vidéo par vidéo, ou désactiver la sauvegarde dans Réglages → Vidéos : plus rien n'est envoyé, et les copies déjà en ligne restent jusqu'à leur retrait ou la suppression de ton compte.
+- Tes photos de séance ne sont jamais envoyées sur nos serveurs : seule ta base de données (qui référence leurs noms de fichiers) est sauvegardée.
+- Tes clips montés ne partent dans le cloud que si tu appuies sur le bouton cloud. Ils ne sont jamais envoyés automatiquement.
+- Tes vidéos d'entraînement ne sont envoyées que dans le cadre de la sauvegarde cloud des vidéos décrite plus haut. Tu peux retirer une copie fichier par fichier, ou désactiver la sauvegarde dans Réglages → Vidéos : plus rien n'est envoyé, et les copies déjà en ligne restent jusqu'à leur retrait ou la suppression de ton compte.
 - Spyke n'intègre aucun SDK publicitaire et ne dépose aucun cookie.
 
 ## Mesure d'utilisation facultative
@@ -80,7 +81,7 @@ La gestion des abonnements s'appuie sur RevenueCat, qui agit également comme so
 
 ## Durée de conservation
 
-Tes données de compte, tes sauvegardes, les copies en ligne de tes vidéos et tes rapports d'erreurs sont conservés tant que ton compte est actif. Une copie vidéo que tu retires est supprimée immédiatement. Quand tu supprimes ton compte (Réglages → Compte → Supprimer le compte), ton compte, l'ensemble de tes sauvegardes en ligne, les copies de tes vidéos et tes rapports d'erreurs sont définitivement supprimés. Les données stockées localement restent sur ton appareil, sous ton contrôle.
+Tes données de compte, tes sauvegardes, les copies en ligne de tes vidéos et tes rapports d'erreurs sont conservés tant que ton compte est actif. Une copie vidéo que tu retires est supprimée immédiatement. Quand tu supprimes ton compte (Réglages → Compte & sauvegarde → Supprimer le compte), ton compte, l'ensemble de tes sauvegardes en ligne, les copies de tes vidéos et tes rapports d'erreurs sont définitivement supprimés. Les données stockées localement restent sur ton appareil, sous ton contrôle.
 
 Les événements déjà reçus par PostHog sont conservés jusqu'à leur effacement à ta demande ou à la suppression de ton compte, sous réserve des règles de conservation appliquées par PostHog. Son offre gratuite prévoit une fenêtre de consultation d'un an ; cette fenêtre et son application au projet ne garantissent pas une suppression physique automatique après 12 mois. Nous ne promettons donc pas cette durée comme limite maximale de conservation. Le retrait de ton accord arrête les nouvelles mesures ; pour effacer celles déjà reçues, contacte-nous ou supprime ton compte.
 

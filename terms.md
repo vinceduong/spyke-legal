@@ -4,19 +4,19 @@ title: Conditions d'utilisation
 
 # Conditions d'utilisation
 
-Dernière mise à jour : 11 juillet 2026
+Dernière mise à jour : 24 septembre 2026
 
-Spyke est une application de suivi d'entraînement éditée par Vincent Duong (éditeur indépendant), joignable à vincent.duong.dev@gmail.com. En créant un compte ou en utilisant Spyke, tu acceptes les présentes conditions.
+Spyke est une application de suivi d'entraînement éditée par Vincent Duong (éditeur indépendant), joignable à spyke.training@gmail.com. En créant un compte ou en utilisant Spyke, tu acceptes les présentes conditions.
 
 ## Le service
 
-Spyke te permet de suivre tes entraînements (musculation, haltérophilie, cardio), de filmer tes séries, de gérer tes programmes et de sauvegarder ta progression en ligne pour la retrouver sur un autre appareil. L'application est aujourd'hui gratuite. Des fonctionnalités payantes optionnelles pourront être introduites à l'avenir ; leurs conditions (prix, durée, résiliation) seront alors présentées clairement avant tout achat.
+Spyke te permet de suivre tes entraînements (musculation, haltérophilie, cardio), de filmer tes séries, de gérer tes programmes et de sauvegarder ta progression en ligne pour la retrouver sur un autre appareil.
 
 ## Ton compte
 
-- La création d'un compte se fait via Sign in with Apple.
-- La création d'un compte est réservée aux personnes d'au moins 15 ans (ou avec l'accord parental — voir la Politique de confidentialité).
-- Tu es responsable de la confidentialité de l'accès à ton appareil et à ton compte Apple.
+- La création d'un compte se fait via Sign in with Apple (sur iPhone) ou via Google (sur iPhone et Android).
+- La création d'un compte suppose de respecter les conditions d'âge et, si nécessaire, d'autorisation parentale applicables dans ton pays (voir la Politique de confidentialité).
+- Tu es responsable de la confidentialité de l'accès à ton appareil et à ton compte Apple ou Google.
 - Le compte est personnel : il est destiné à ton propre suivi d'entraînement.
 
 ## Tes données et contenus
@@ -29,8 +29,8 @@ Spyke te permet de suivre tes entraînements (musculation, haltérophilie, cardi
 
 - La sauvegarde en ligne est fournie « en l'état », comme un filet de sécurité complémentaire : tes données restent d'abord stockées localement sur ton appareil.
 - L'éditeur met en œuvre des moyens raisonnables pour préserver tes sauvegardes, mais ne garantit pas une disponibilité ininterrompue du service ni l'absence de perte. En cas d'incident, la responsabilité de l'éditeur est limitée dans les conditions prévues à la section « Responsabilité ».
-- Les photos et vidéos ne sont pas incluses dans la sauvegarde en ligne : pense à sauvegarder ton appareil (par exemple via iCloud) si tu veux les conserver.
-- La suppression de ton compte entraîne la suppression définitive de tes sauvegardes en ligne.
+- Tes photos ne sont pas incluses dans la sauvegarde en ligne. Tes vidéos ne le sont que par la sauvegarde cloud des vidéos, quand elle est active : les vidéos de tes records, et les autres vidéos ou clips que tu envoies avec le bouton cloud (voir la Politique de confidentialité). Pour conserver le reste, pense à sauvegarder ton téléphone.
+- La suppression de ton compte entraîne la suppression définitive de tes sauvegardes en ligne, copies de tes vidéos comprises.
 
 ## Usage acceptable
 
@@ -46,7 +46,7 @@ Dans la mesure permise par la loi, l'éditeur ne saurait être tenu responsable 
 
 ## Résiliation
 
-- Tu peux cesser d'utiliser Spyke et supprimer ton compte à tout moment, directement dans l'application (Réglages → Compte → Supprimer le compte).
+- Tu peux cesser d'utiliser Spyke et supprimer ton compte à tout moment, directement dans l'application (Réglages → Compte & sauvegarde → Supprimer le compte).
 - L'éditeur peut suspendre ou résilier un compte en cas de violation manifeste des présentes conditions, avec un préavis raisonnable sauf urgence.
 
 ## Modifications
@@ -59,4 +59,4 @@ Les présentes conditions sont régies par le droit français. En cas de litige,
 
 ## Contact
 
-Vincent Duong — vincent.duong.dev@gmail.com
+Vincent Duong, spyke.training@gmail.com
